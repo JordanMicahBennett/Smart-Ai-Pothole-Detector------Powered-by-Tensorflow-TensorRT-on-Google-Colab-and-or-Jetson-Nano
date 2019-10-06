@@ -10,7 +10,7 @@ Thanks Google, TensorRt creators, thanks jhasuman, for his [desktop-version yolo
 
 *   This project by Jordan essentially converts jhasuman's neural network based desktop pothole detector above (fp32 aka single precision floating point/32 bits), to jetson nano neural network based pothole detector (fp16 half precision floating point 16 bits). (**Purpose of which is to add the jetson nano with the trained half precision pothole detector to my car, and perhaps offer to others for sale?**)
 
-*   In addition, the first 4 steps below were added by Jordan, and other steps modified to align with custom pothole model, to this [original blog/colab code](https://www.dlology.com/blog/how-to-run-keras-model-on-jetson-nano/).
+*   In addition, the first 4 steps in the Alternative Instructions below were added by Jordan, and other steps modified to align with custom pothole model, to this [original blog/colab code](https://www.dlology.com/blog/how-to-run-keras-model-on-jetson-nano/).
 
 
 # Success
