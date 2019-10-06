@@ -1,7 +1,7 @@
 # Smart (Ai) Pothole Detector (Powered by "Tensorflow/TensorRT" on "Google Colab" and or "Jetson Nano")
 
-#Smart (Ai) Pothole Detector (Powered by "Tensorflow/TensorRT" on "Google Colab" and or "Jetson Nano")
-By Jordan Bennett (**folioverse.appspot.com**).
+#Author
+Jordan Bennett ([Website](folioverse.appspot.com**)).
 
 Thanks Google, TensorRt creators, thanks jhasuman, for his [desktop-version yolo-v2 based pothole detector](https://github.com/jhasuman/potholes-detection).
 
