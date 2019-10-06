@@ -45,7 +45,7 @@ The jetson nano is a portable device, and hence this may be attached to a vehicl
 
 
 
-# II. Alternatively, Instructions/steps to run on [Google Colab](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=Hwpja-Up3TU6&line=20&uniqifier=1) in your browser, if you don't have jetson nano.
+# II. Alternatively, Instructions/steps to run on [Google Colab](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=Hwpja-Up3TU6&line=20&uniqifier=1) in your browser, if you don't have a jetson nano device.
 
 The first 4 steps below were added by Jordan, and other steps added/modified to align with custom pothole model, based on this [original blog/colab code](https://www.dlology.com/blog/how-to-run-keras-model-on-jetson-nano/).
 
