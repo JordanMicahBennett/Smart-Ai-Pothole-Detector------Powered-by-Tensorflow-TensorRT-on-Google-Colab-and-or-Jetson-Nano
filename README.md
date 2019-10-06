@@ -42,7 +42,7 @@ The jetson nano is a portable device, and hence this may be attached to a vehicl
 
 5. Run "load_trt_graph.py" from (3).
 
-6. Run jetson_nano_pothole_detector from (3), and see what jetson nano returns from the saved neural network.
+6. Run "jetson_nano_pothole_detector.py" from (3), and see what jetson nano returns from the saved neural network.
 
 
 
