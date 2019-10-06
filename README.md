@@ -18,7 +18,9 @@ There were lots of head scratching moments, but the tensorRT/jetson nano-mini co
 
 
 # Background 
-This Google Colab code is separate from the final product code I prepared for the jetson nano, although the nano code uses some of this colab code. 
+Why do this? There is a lot to say about how damaging surprise potholes can be while driving, but instead I will leave this nice quick to the point summary here: "[Youtube/Hitting a pothole in a Tesla costs 2600 US dollars]("https://www.youtube.com/watch?v=H6sPc9dFsGw"). This doesn't happen to teslas either!
+
+That said, this Google Colab code is separate from the final product code I prepared for the jetson nano, although the nano code uses some of this colab code. 
 
 The jetson nano is a portable device, and hence this may be attached to a vehicle to do pothole detection, based on [convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network).
 
