@@ -1,7 +1,8 @@
 # Smart (Ai) Pothole Detector (Powered by "Tensorflow/TensorRT" on "Google Colab" and or "Jetson Nano")
 
-#Author
-Jordan Bennett ([Website](folioverse.appspot.com**)).
+# Author
+
+Jordan Bennett ([Website](folioverse.appspot.com)).
 
 Thanks Google, TensorRt creators, thanks jhasuman, for his [desktop-version yolo-v2 based pothole detector](https://github.com/jhasuman/potholes-detection).
 
@@ -37,7 +38,9 @@ The jetson nano is a portable device, and hence this may be attached to a vehicl
 
 
 # II. Alternatively, Instructions/steps to run on [Google Colab](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=Hwpja-Up3TU6&line=20&uniqifier=1)
-##Part A: Prequisites
+
+## Part A: Prequisites
+
 0. [Connect to Jordan's Google drive to access saved neural nwtwork wrights etc](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=ma8JcJc9pzmH&line=11&uniqifier=1)
 
 1. [Backend](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=qWBtb7Xin-zG&line=25&uniqifier=1)
@@ -47,7 +50,7 @@ The jetson nano is a portable device, and hence this may be attached to a vehicl
 3. [Frontend](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=lOgZDSUYnDQC&line=11&uniqifier=1)
 
 
-##Part B: TensorRT Conversion & Usage steps
+## Part B: TensorRT Conversion & Usage steps
 
 1. [Frozen graph creation](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=CgVxdMRCmFcn&line=10&uniqifier=1)
 
@@ -63,7 +66,7 @@ The jetson nano is a portable device, and hence this may be attached to a vehicl
 *   [Part A  (0)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=ma8JcJc9pzmH&line=11&uniqifier=1) ----> [Part B (2b)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=kGqN3UXquW-m) ----> [Part B (3a)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=L-Jx1Yq0uejv&line=4&uniqifier=1) ----> [Part B (3b)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=Azhh5OA2vI72&line=7&uniqifier=1) ----> [Part B (4)]()
 
 
-#Performance comparison, between Desktop and TensorRT/Nano version:
+# Performance comparison, between Desktop and TensorRT/Nano version:
 
 1. See screenshot of fps count using TensorRT/Nano neural network pothole detector: https://drive.google.com/file/d/1LoWDsX75ehQ7HwcL1asz_EnRTZfHvrEs/view?usp=sharing
 
