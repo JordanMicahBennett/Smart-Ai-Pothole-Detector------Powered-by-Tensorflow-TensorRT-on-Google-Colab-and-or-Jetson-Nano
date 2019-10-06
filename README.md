@@ -1,5 +1,7 @@
 # Smart (Ai) Pothole Detector (Powered by "Tensorflow/TensorRT" on "Google Colab" and or "Jetson Nano")
 
+![Alt text](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/data/display.png "default page")
+
 # Author
 
 Jordan Bennett ([Website](folioverse.appspot.com)).
@@ -70,8 +72,12 @@ The jetson nano is a portable device, and hence this may be attached to a vehicl
 
 1. See screenshot of fps count using TensorRT/Nano neural network pothole detector: https://drive.google.com/file/d/1LoWDsX75ehQ7HwcL1asz_EnRTZfHvrEs/view?usp=sharing
 
+![Alt text](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/data/JetsonNano_TensorRT%20Pothole%20Detector%20FPS%20Report%20(fp16_half_precision).jpg "default page")
+
 2. See screenshot of fps count using Desktop neural network pothole detector: 
 https://drive.google.com/file/d/1xnp304UfWpSWSLvqLvGDNGTHPFyBh9FN/view?usp=sharing 
+
+![Alt text](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/data/Desktop%20Pothole%20Detector%20FPS%20Report%20(fp32_single_floating_point).jpg "default page")
 
 
 
