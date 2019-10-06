@@ -18,7 +18,11 @@ There were lots of head scratching moments, but the tensorRT/jetson nano-mini co
 
 
 # Background 
-Why do this? There is a lot to say about how damaging surprise potholes can be while driving, but instead I will leave this nice quick to the point summary here: "[Youtube/Hitting a pothole in a Tesla costs 2600 US dollars]("https://www.youtube.com/watch?v=H6sPc9dFsGw"). This doesn't happen to teslas either!
+Why do this? There is a lot to say about how damaging surprise potholes can be while driving, but instead I will leave this nice quick to the point summary here: "[Youtube/Hitting a pothole in a Tesla costs 2600 US dollars](https://www.youtube.com/watch?v=H6sPc9dFsGw)". This doesn't only happen to teslas either!
+
+
+![Alt text](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/data/Desktop%20Pothole%20Detector%20FPS%20Report%20(fp32_single_floating_point).jpg "default page")
+
 
 That said, this Google Colab code is separate from the final product code I prepared for the jetson nano, although the nano code uses some of this colab code. 
 
