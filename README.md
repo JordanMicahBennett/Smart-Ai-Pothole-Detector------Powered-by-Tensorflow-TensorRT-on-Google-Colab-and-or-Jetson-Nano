@@ -52,7 +52,7 @@ The first 4 steps below were added by Jordan, and other steps added/modified to 
 
 ## Part A: Prequisites
 
-0. [Connect to Jordan's Google drive to access saved neural network wrights etc](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=ma8JcJc9pzmH&line=11&uniqifier=1)
+0. [Connect to Jordan's Google drive to access saved neural network weights etc](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=ma8JcJc9pzmH&line=11&uniqifier=1)
 
 1. [Backend](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=qWBtb7Xin-zG&line=25&uniqifier=1)
 
