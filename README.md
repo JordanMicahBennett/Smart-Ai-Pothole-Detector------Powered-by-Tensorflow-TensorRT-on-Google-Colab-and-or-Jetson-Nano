@@ -92,7 +92,10 @@ https://drive.google.com/file/d/1xnp304UfWpSWSLvqLvGDNGTHPFyBh9FN/view?usp=shari
 
 # Future work:
 
-1. Live speedbump detection. (Especially those haphazzardly painted ones that are painted black like road)
+1. Find out how costly it would be to incoroprate a [dark to bright neural network](https://github.com/cchen156/Learning-to-See-in-the-Dark) converter, to enable pothole detection at night.
 
-2. Other obstacle detection, that may be to thin for car sensors to pick up.
+2. Live speedbump detection. (Especially those haphazzardly painted ones that are painted black like road)
+
+3. Other obstacle detection, that may be to thin for car sensors to pick up.
+
 
