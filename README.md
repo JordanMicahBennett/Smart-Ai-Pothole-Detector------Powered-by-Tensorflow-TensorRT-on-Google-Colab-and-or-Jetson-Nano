@@ -90,5 +90,9 @@ https://drive.google.com/file/d/1xnp304UfWpSWSLvqLvGDNGTHPFyBh9FN/view?usp=shari
 
 
 
+# Future work:
 
+1. Live speedbump detection. (Especially those haphazzardly painted ones that are painted black like road)
+
+2. Other obstacle detection, that may be to thin for car sensors to pick up.
 
