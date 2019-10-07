@@ -99,3 +99,7 @@ https://drive.google.com/file/d/1xnp304UfWpSWSLvqLvGDNGTHPFyBh9FN/view?usp=shari
 3. Other obstacle detection, that may be to thin for car sensors to pick up.
 
 
+
+# Youtube clip of Pothole TensorRT Ai in action on Google Colab
+
+https://www.youtube.com/watch?v=MgsK3UrYEOI
