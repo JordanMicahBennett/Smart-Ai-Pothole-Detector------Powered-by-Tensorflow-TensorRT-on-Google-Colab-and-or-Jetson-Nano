@@ -9,7 +9,7 @@
 
 Jordan Bennett ([Website](folioverse.appspot.com)).
 
-Thanks Google, TensorRt creators, thanks jhasuman, for his [desktop-version yolo-v2 based pothole detector](https://github.com/jhasuman/potholes-detection).
+Thanks Google, TensorRt creators, thanks jhasuman, for his [desktop-version yolo-v2 based pothole detector](https://github.com/JordanMicahBennett/potholes-detection).
 
 *   This project by Jordan essentially converts jhasuman's neural network based desktop pothole detector above (fp32 aka single precision floating point/32 bits), to jetson nano neural network based pothole detector (fp16 half precision floating point 16 bits). (**Purpose of which is to add the jetson nano with the trained half precision pothole detector to my car, and perhaps offer to others for sale?**)
 
