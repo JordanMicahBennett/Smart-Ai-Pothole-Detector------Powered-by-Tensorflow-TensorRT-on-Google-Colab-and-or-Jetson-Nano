@@ -30,17 +30,7 @@ That said, this Google Colab code is separate from the final product code I prep
 The jetson nano is a portable device, and hence this may be attached to a vehicle to do pothole detection, based on [convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network).
 
 # I. Instructions to run on Jetson nano neural computer
-1. Follow these instructions from [this Jetson Nano purchase and setup repository of mine](https://github.com/JordanMicahBennett/live_ai_object-detection-on-tiny-jetson-neural-nano-computer).
-
-2. Download "[optimized trt_pothole_graph.pb graph](https://drive.google.com/file/d/1b9XgpXeWBay6GE2bnLSqlLSXDEFfUCZd/view?usp=sharing)" aka saved pothole detection neural network to somewhere on your jetson nano.
-
-3. Download "[Ai Vehicle Pothole Detector (Powered by Jetson Nano Neural Computer)__________________.zip](https://drive.google.com/open?id=1wnO4IFE33CAppRkr0RI5TSgqU99J-wHO)" to somewhere on your jetson nano.
-
-4. Copy .pb file from (2) to extracted directory of folder from (3) above.
-
-5. Run "load_trt_graph.py" from (3).
-
-6. Run "jetson_nano_pothole_detector.py" from (3), and see what jetson nano returns from the saved neural network.
+Please follow all instructions outlined [in this separate Readme.md file](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/Readme.md), found in the ["jetson-nano-source-code"](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/Readme.md) folder of this repository.
 
 
 
