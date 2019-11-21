@@ -1,5 +1,5 @@
 
-# I. Instructions to run "jetson-nano-source-code" on Jetson nano neural computer
+# Instructions to run "jetson-nano-source-code" on Jetson nano neural computer
 
 1. Follow these instructions from [this Jetson Nano purchase and setup repository of mine](https://github.com/JordanMicahBennett/live_ai_object-detection-on-tiny-jetson-neural-nano-computer).
 
