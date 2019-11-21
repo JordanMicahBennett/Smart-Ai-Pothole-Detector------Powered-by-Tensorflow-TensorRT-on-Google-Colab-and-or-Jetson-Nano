@@ -9,8 +9,8 @@
 
 4. Copy .pb file from (3) to extracted directory of folder from (2) above.
 
-5. Run "load_trt_graph.py" from "[jetson-nano-source-code](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/tree/master/jetson-nano-source-code)" folder from item (2).
+5. Run "[load_trt_graph.py](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/load_trt_graph.py)" from "[jetson-nano-source-code](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/tree/master/jetson-nano-source-code)" folder from item (2).
 
-6. Run "jetson_nano_pothole_detector.py" from (5), and see what jetson nano returns from the saved neural network.
+6. Run "[jetson_nano_pothole_detector.py](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/jetson_nano_pothole_detector.py)" from (5), and see what jetson nano returns from the saved neural network.
 
 7. Enjoy!
