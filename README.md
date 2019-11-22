@@ -37,7 +37,7 @@ Go to [NVIDIA's jetson project page](https://developer.nvidia.com/embedded/commu
 
 Below is a screenshot of my pothole project on Nvidia's jetson project page:
 
-![Alt text]https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/data/smart%20pothole%20detector%20nvidia%20feature.png "default page")
+![Alt text](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/data/smart%20pothole%20detector%20nvidia%20feature.png "default page")
 
 # I. Instructions to run on Jetson nano neural computer
 Please follow all instructions outlined [in this separate Readme.md file](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/Readme.md), found in the ["jetson-nano-source-code"](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/Readme.md) folder of this repository.
