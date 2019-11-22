@@ -29,6 +29,18 @@ That said, this Google Colab code is separate from the final product code I prep
 
 The jetson nano is a portable device, and hence this may be attached to a vehicle to do pothole detection, based on [convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network).
 
+# This project is featured by NVIDIA.
+
+3.) [NVIDIA](http://nvidia.com/) is a multi-billion dollar artificial intelligence involved company. [Their technology has been central to a large degree of humanity's progress so far.](https://www.youtube.com/watch?v=GWL1HNHDSq4)
+
+Go to [NVIDIA's jetson project page](https://developer.nvidia.com/embedded/community/jetson-projects), and scroll down until you see "Smart Pothole Detector" by Jordan. There you will also see many exciting/intriguing artificial intelligence/machine learning aligned projects.
+
+Below is a screenshot of my pothole project on Nvidia's jetson project page:
+
+![Alt text]
+https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/data/smart%20pothole%20detector%20nvidia%20feature.png
+ "default page")
+
 # I. Instructions to run on Jetson nano neural computer
 Please follow all instructions outlined [in this separate Readme.md file](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/Readme.md), found in the ["jetson-nano-source-code"](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/Readme.md) folder of this repository.
 
@@ -93,3 +105,6 @@ https://drive.google.com/file/d/1xnp304UfWpSWSLvqLvGDNGTHPFyBh9FN/view?usp=shari
 # Youtube clip of Pothole TensorRT Ai in action on Google Colab
 
 https://www.youtube.com/watch?v=MgsK3UrYEOI
+
+
+
