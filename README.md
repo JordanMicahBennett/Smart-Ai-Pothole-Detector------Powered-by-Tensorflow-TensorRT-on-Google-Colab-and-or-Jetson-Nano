@@ -7,7 +7,7 @@
 
 # Author
 
-Jordan Bennett ([Website](folioverse.appspot.com)).
+Jordan Bennett ([Website](https://folioverse.appspot.com/)).
 
 Thanks Google, TensorRt creators, thanks jhasuman, for his [desktop-version yolo-v2 based pothole detector](https://github.com/JordanMicahBennett/potholes-detection).
 
