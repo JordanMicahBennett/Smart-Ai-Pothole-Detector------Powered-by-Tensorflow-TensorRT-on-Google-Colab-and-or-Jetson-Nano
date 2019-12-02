@@ -72,7 +72,7 @@ The first 4 steps below were added by Jordan, and other steps added/modified to 
 4. [Use loaded tensor rt graph to make predictions](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=ZrHyjN_Cvk4Z&line=14&uniqifier=1)
 
 
-## Part C: Quick Test Order (I use the order below to run files in to run pothole prediction test, based on how I organized all files in this google colab project and on my google drive)
+## Part C: Quick Test Order (I use the order below to run files to run pothole prediction test, based on how I organized all files in this google colab project and on my google drive)
 
 *   [Part A  (0)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=ma8JcJc9pzmH&line=11&uniqifier=1) ----> [Part B (2b)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=kGqN3UXquW-m) ----> [Part B (3a)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=L-Jx1Yq0uejv&line=4&uniqifier=1) ----> [Part B (3b)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=Azhh5OA2vI72&line=7&uniqifier=1) ----> [Part B (4)]()
 
