@@ -33,7 +33,7 @@ The jetson nano is a portable device, and hence this may be attached to a vehicl
 
 [NVIDIA](http://nvidia.com/) is a multi-billion dollar artificial intelligence involved company. [Their technology has been central to a large degree of humanity's progress so far.](https://www.youtube.com/watch?v=GWL1HNHDSq4)
 
-Go to [NVIDIA's jetson project page](https://developer.nvidia.com/embedded/community/jetson-projects), and scroll down until you see "Smart Pothole Detector" by Jordan. There you will also see many exciting/intriguing artificial intelligence/machine learning aligned projects.
+Either go to [this quick NVIDIA Jestson link to my project](https://developer.nvidia.com/embedded/community/jetson-projects?linkId=100000009412754#ai_pothole_detector), or go to [NVIDIA's jetson project page](https://developer.nvidia.com/embedded/community/jetson-projects), and scroll down until you see "Smart Pothole Detector" by Jordan. There you will also see many exciting/intriguing artificial intelligence/machine learning aligned projects.
 
 Below is a screenshot of my pothole project on Nvidia's jetson project page:
 
