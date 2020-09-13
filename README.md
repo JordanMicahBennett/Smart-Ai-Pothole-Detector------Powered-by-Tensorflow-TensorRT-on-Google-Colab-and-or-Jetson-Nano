@@ -74,7 +74,7 @@ The first 4 steps below were added by Jordan, and other steps added/modified to 
 
 ## Part C: Quick Test Order (I use the order below to run files to run pothole prediction test, based on how I organized all files in this google colab project and on my google drive)
 
-*   [Part A  (0)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=ma8JcJc9pzmH&line=11&uniqifier=1) ----> [Part B (2b)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=kGqN3UXquW-m) ----> [Part B (3a)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=L-Jx1Yq0uejv&line=4&uniqifier=1) ----> [Part B (3b)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=Azhh5OA2vI72&line=7&uniqifier=1) ----> [Part B (4)]()
+*   [Part A  (0)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=ma8JcJc9pzmH&line=11&uniqifier=1) ----> [Part B (2b)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=EGRugrAUnNrv&line=7&uniqifier=1) ----> Part A  (2)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=ma8JcJc9pzmH&line=11&uniqifier=1) ----> [Part B (2b)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=kGqN3UXquW-m) ----> [Part B (3a)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=L-Jx1Yq0uejv&line=4&uniqifier=1) ----> [Part B (3b)](https://colab.research.google.com/drive/1kGV8DXJ7RwQtCDmd2QOc80Bll5n24Ftp#scrollTo=Azhh5OA2vI72&line=7&uniqifier=1) ----> [Part B (4)]()
 
 
 # Performance comparison, between Desktop and TensorRT/Nano version:
