@@ -5,7 +5,7 @@
 
 2. Download [this repository](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/), and open the "[jetson-nano-source-code](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/tree/master/jetson-nano-source-code)" folder, to your jetson nano device.
 
-3. Download "[optimized trt_pothole_graph.pb graph](https://drive.google.com/file/d/1b9XgpXeWBay6GE2bnLSqlLSXDEFfUCZd/view?usp=sharing)" aka saved pothole detection neural network to somewhere on your jetson nano.
+3. Download "[optimized trt_pothole_graph.pb graph](https://drive.google.com/file/d/1b9XgpXeWBay6GE2bnLSqlLSXDEFfUCZd/view?usp=sharing)" aka saved pothole detection neural network to somewhere on your jetson nano. [I had converted from a 32 bit single floating point pothole detector, to this 16 bit half precision .pb version using Tensor RT](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano#author).
 
 4. Copy .pb file from (3) to extracted directory of folder from (2) above.
 
