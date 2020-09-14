@@ -9,20 +9,25 @@
 
 4. Copy .pb file from (3) to extracted directory of folder from (2) above.
 
-5. Install essential compile/lib files, (...otherwise face lots of scipy etc build errors at step (2) and (3) below)
+5. Install essential compile/lib files, (...otherwise face lots of scipy etc build errors at steps (6) and (7) below)
+
 `sudo apt-get install -y build-essential libatlas-base-dev gfortran`
 
 6. Install jetson compatible tensorflow 2.2.0 (...otherwise face a ValueError/ missing node problem, caused by mismatched tensorflow graph freezing/graph loading attempt)
+
 `sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v44 tensorflow`
 
 7. Install jetson compatible  tensorflow gpu-2.0.0 (...otherwise face libcudart.so.10.0 and segmentation errors)
+
 `sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v43 tensorflow-gpu`
 
 8. Install jupyter lab:
+
 `sudo pip3 install jupyterlab`
 
 9. Go to directory of pothole "jetson-source-code", and run jupyter lab:
-`jupyter lab --allow-root`
+
+`sudo jupyter lab --allow-root`
 
 10. Finally, to perform prediction on the sample images, in jupyter lab tab, select "jetson_nano_pothole_detector" notebook file, and hit run all sells from run menu at top, and wait for pothole predictions on jetson nano!!! 
 
