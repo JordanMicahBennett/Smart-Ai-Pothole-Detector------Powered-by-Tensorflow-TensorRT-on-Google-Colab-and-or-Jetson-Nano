@@ -4,7 +4,7 @@
 #This is not expected to work on windows.
 #Expected to work on google colab or jetson nano like platform.
 ###################
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 
 #jordan_declaration: input and output names taken from frozen graph generation process
 #this is to avoid re-running frozen graph generation on jetson nano, instead okay to use generatred frozen graph file on storage.
