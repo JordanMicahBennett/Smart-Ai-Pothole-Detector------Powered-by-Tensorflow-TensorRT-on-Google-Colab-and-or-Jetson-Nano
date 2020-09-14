@@ -29,7 +29,7 @@
 
 `sudo jupyter lab --allow-root`
 
-10. Finally, to perform prediction on the sample images, in jupyter lab tab, select "jetson_nano_pothole_detector" notebook file, and hit run all sells from run menu at top, and wait for pothole predictions on jetson nano!!! 
+10. Finally, to perform prediction on the sample images, in jupyter lab tab, select "jetson_nano_pothole_detector" notebook file, and hit run all cells from run menu at top, and wait for pothole predictions on jetson nano!!! 
 
 11. Enjoy
 
