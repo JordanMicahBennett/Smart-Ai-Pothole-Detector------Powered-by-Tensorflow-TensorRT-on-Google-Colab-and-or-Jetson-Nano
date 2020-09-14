@@ -25,11 +25,11 @@
 
 `sudo pip3 install jupyterlab`
 
-9. Go to directory of pothole "jetson-source-code", and run jupyter lab:
+9. Go to directory of pothole "[jetson-nano-source-code](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/)", and run jupyter lab:
 
 `sudo jupyter lab --allow-root`
 
-10. Finally, to perform prediction on the sample images, in jupyter lab tab, select "jetson_nano_pothole_detector" notebook file, and hit run all cells from run menu at top, and wait for pothole predictions on jetson nano!!! 
+10. Finally, to perform prediction on the sample images, in jupyter lab tab, select "[jetson_nano_pothole_detector](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano/blob/master/jetson-nano-source-code/jetson_nano_pothole_detector.ipynb)" notebook file, and hit run all cells from run menu at top, and wait for pothole predictions on jetson nano!!! 
 
 11. Enjoy
 
